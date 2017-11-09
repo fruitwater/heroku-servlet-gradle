@@ -15,4 +15,4 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'xfan-java-app-sample001'
+rootProject.name = 'heroku-servlet-gradle'
